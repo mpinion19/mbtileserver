@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/consbio/mbtileserver.git"
+        "url": "git+https://github.com/mpinion19/mbtileserver.git"
     },
     "keywords": [
         "map",
@@ -18,9 +18,9 @@
     "author": "Brendan C. Ward",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/consbio/mbtileserver/issues"
+        "url": "https://github.com/consmpinion19bio/mbtileserver/issues"
     },
-    "homepage": "https://github.com/consbio/mbtileserver",
+    "homepage": "https://github.com/mpinion19/mbtileserver",
     "dependencies": {
         "leaflet": "^1.7.1",
         "leaflet-base64-legend": "^0.1.2",
